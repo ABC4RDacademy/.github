@@ -1,30 +1,34 @@
 name: Source suggestion
 description: Suggest a public source for ABC4RD Academy materials
 title: "Source suggestion: "
-labels: ["source", "requires review"]
+labels: ["documentation"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping ABC4RD Academy improve its public source base.
+        Please suggest only public sources. Do not include private contact data.
   - type: input
-    id: source_url
+    id: source
     attributes:
       label: Public source URL
-      description: Link to an official or public source.
+      description: Link to the official or public source.
     validations:
       required: true
   - type: dropdown
-    id: verification_status
+    id: status
     attributes:
-      label: Verification status
+      label: Verification level
       options:
-        - verified
-        - secondary source
+        - verified official source
         - requires verification
+        - not sure
     validations:
       required: true
   - type: textarea
     id: relevance
     attributes:
-      label: Why is this useful?
-      description: Explain how this helps students, developers, or researchers.
+      label: Why it matters
+      description: Explain how this helps students, contributors, or conference research.
     validations:
       required: true
-

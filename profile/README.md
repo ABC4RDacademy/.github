@@ -27,6 +27,16 @@ ABC4RD helps students, developers, researchers, and educators build a strong tec
 | [`abc4rd-community`](https://github.com/ABC4RDacademy/abc4rd-community) | Charter, governance, community operations |
 | [`.github`](https://github.com/ABC4RDacademy/.github) | Organization profile and shared GitHub defaults |
 
+## Active Launch Work
+
+- Curriculum review: https://github.com/ABC4RDAcademy/bitcoin-developer-curriculum/issues
+- Reading list verification: https://github.com/ABC4RDAcademy/bitcoin-reading-list/issues
+- Conference source tracking: https://github.com/ABC4RDAcademy/conference-notes/issues
+- Collaboration and feedback requests: https://github.com/ABC4RDAcademy/community-collaboration/issues
+
+Day-zero focus: publish useful starter materials, verify sources, and invite
+small practical contributions without mass outreach.
+
 ## For Students
 
 Start with public curricula, reading paths, and beginner-friendly issues. The goal is to learn by building small, reviewable contributions.
@@ -49,4 +59,3 @@ ABC4RD Academy is an independent educational initiative. Unless explicitly state
 - Telegram chat: https://www.t.me/abc4rdchat
 - Telegram bot: https://www.t.me/abc4rd_bot
 - Discord: https://discord.com/invite/3AgRv6wKPQ
-

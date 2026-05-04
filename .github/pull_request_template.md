@@ -1,33 +1,22 @@
 ## Summary
 
-This PR improves:
+What does this PR improve?
 
-- [ ] curriculum content
-- [ ] reading list
-- [ ] source verification
-- [ ] glossary
-- [ ] onboarding guide
-- [ ] conference notes
-- [ ] documentation / repository structure
+## Type
 
-## Context
+- [ ] Documentation
+- [ ] Source verification
+- [ ] Curriculum exercise
+- [ ] Glossary
+- [ ] Conference notes
+- [ ] Other
 
-Why is this useful for ABC4RD Academy students or contributors?
+## Source Check
 
-## Sources
-
-List public sources used:
-
-- 
-
-## Verification
-
-- [ ] I used primary public sources where possible.
-- [ ] I marked uncertain information as `requires verification`.
+- [ ] I used public sources only.
+- [ ] I marked uncertain claims as `requires verification`.
 - [ ] I did not imply endorsement, partnership, or affiliation.
-- [ ] This change is educational and non-promotional.
 
 ## Notes
 
-No behavior changes unless explicitly described.
-
+Add context for reviewers here.
