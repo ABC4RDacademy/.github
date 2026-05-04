@@ -1,0 +1,30 @@
+name: Source suggestion
+description: Suggest a public source for ABC4RD Academy materials
+title: "Source suggestion: "
+labels: ["source", "requires review"]
+body:
+  - type: input
+    id: source_url
+    attributes:
+      label: Public source URL
+      description: Link to an official or public source.
+    validations:
+      required: true
+  - type: dropdown
+    id: verification_status
+    attributes:
+      label: Verification status
+      options:
+        - verified
+        - secondary source
+        - requires verification
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Why is this useful?
+      description: Explain how this helps students, developers, or researchers.
+    validations:
+      required: true
+

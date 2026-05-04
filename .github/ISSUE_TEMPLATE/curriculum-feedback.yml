@@ -1,0 +1,25 @@
+name: Curriculum feedback
+description: Suggest an improvement to the Bitcoin developer curriculum
+title: "Curriculum feedback: "
+labels: ["curriculum", "feedback"]
+body:
+  - type: input
+    id: module
+    attributes:
+      label: Module or section
+      description: Which module or section should be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: What is unclear, inaccurate, missing, or too advanced?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public sources
+      description: Add source links if the feedback changes factual content.
+
