@@ -1,107 +1,90 @@
 # ABC4RD Academy
 
-**Academic BlockChain for Research & Development (ABC4RD)** is an international
-research and education initiative with a public 2017 origin and a current focus
-on Bitcoin, AI, open compute, sensor networks, robotics, digital health,
-digital manufacturing, nanomaterials, frontier AI literacy, and
-blockchain-backed trust systems.
+![ABC4RD Academy research and education center](assets/abc4rd-academy-banner.svg)
 
-ABC4RD traces its public origin to a 2017 university blockchain education story
-covered by [Bitcoin Magazine](https://bitcoinmagazine.com/culture/russian-university-wants-take-blockchain-research-global)
+**ABC4RD Academy** is a source-backed research and education center for
+Bitcoin, AI, open compute, robotics, digital health, digital manufacturing,
+nanomaterials, and trustworthy public infrastructure.
+
+The academy traces its public origin to a 2017 university blockchain education
+story covered by [Bitcoin Magazine](https://bitcoinmagazine.com/culture/russian-university-wants-take-blockchain-research-global)
 and syndicated by [Nasdaq](https://www.nasdaq.com/articles/the-russian-university-that-wants-to-take-blockchain-research-global-2017-02-22).
-The current relaunch is international, source-backed, and built in public.
+The current relaunch is international, open, practical, and careful about
+claims.
+
+## Start Here
+
+| I want to | Go to | First useful action |
+| --- | --- | --- |
+| Understand the academy | [`ABC4RD`](https://github.com/ABC4RDacademy/ABC4RD) | Read the roadmap and research tracks |
+| Build the flagship product | [`LLMAIX2001a`](https://github.com/ABC4RDacademy/LLMAIX2001a) | Run Module 01 Bigram Language Model |
+| Verify public claims | [`abc4rd-research`](https://github.com/ABC4RDacademy/abc4rd-research) | Review source maps and citation packs |
+| Join the community | [`abc4rd-community`](https://github.com/ABC4RDacademy/abc4rd-community) | Read onboarding and choose a role |
 
 ## Flagship
 
 [`LLMAIX2001a`](https://github.com/ABC4RDacademy/LLMAIX2001a) is the first
-flagship course: a practical path from language-model foundations to a
-deployable Storyteller AI system.
+flagship course and product path: a practical route from language-model
+foundations to a Storyteller AI prototype.
 
-Learners move through:
+Current public artifact:
 
-- bigram and n-gram language models;
-- micrograd-style backpropagation;
-- tokenization, attention, and transformers;
-- optimization, inference, fine-tuning, and deployment;
-- AI agents with tools, retrieval, sandboxes, and approval gates;
-- AGI readiness and ASI safety literacy;
-- blockchain-backed credentials, provenance, attestations, and contributor
-  incentives.
-- Bitcoin, Lightning, Nostr, custody, treasury, and open-source literacy;
-- open compute, sensors, robotics, digital manufacturing, digital health, and
-  nanomaterials;
-- public evidence, community governance, events, and partner-safe collaboration.
+- runnable Module 01 Bigram Language Model lab;
+- toy dataset and deterministic expected output;
+- unit tests, learner exercises, and glossary;
+- next modules for micrograd, n-grams, attention, transformers, deployment,
+  agents, AGI/ASI literacy, and blockchain-backed trust.
 
-## Frontier Direction
+## Research Tracks
 
-ABC4RD connects four learning layers:
-
-| Layer | What learners explore |
+| Track | Focus |
 | --- | --- |
-| AI foundations | Language models, transformers, multimodal workflows, deployment |
-| AI agents | Tool use, orchestration, MCP-style connectors, human approval gates |
-| AGI and ASI literacy | Evaluations, preparedness, alignment, governance, staged deployment |
-| Blockchain trust | Credentials, provenance, attestations, Bitcoin workflows, public bounties |
+| Bitcoin and open finance | Protocol literacy, cryptography, Lightning, custody, public evidence |
+| AI and open compute | Language models, agents, evaluations, open infrastructure |
+| Robotics and sensors | ROS, Gazebo, MoveIt, IoT, telemetry integrity, simulation |
+| Digital health standards | FHIR, SMART Guidelines, OpenMRS, privacy, ethics |
+| Digital manufacturing | Digital thread, traceability limits, standards, open tooling |
+| Nanomaterials | Simulation, responsible development, open scientific infrastructure |
 
-This is an education and research agenda. ABC4RD does not claim that it has
-built AGI or ASI.
+## Contribution Ladder
 
-## Start Here
-
-| Path | Repository | First action |
-| --- | --- | --- |
-| Learn the ecosystem | [`ABC4RD`](https://github.com/ABC4RDacademy/ABC4RD) | Read the roadmap and frontier strategy |
-| Build the flagship course | [`LLMAIX2001a`](https://github.com/ABC4RDacademy/LLMAIX2001a) | Start with Module 01 and good first issues |
-| Verify claims | [`abc4rd-research`](https://github.com/ABC4RDacademy/abc4rd-research) | Review source maps and citation packs |
-| Join the community | [`abc4rd-community`](https://github.com/ABC4RDacademy/abc4rd-community) | Read onboarding and community roles |
+1. Read and summarize one source.
+2. Verify source status and license/access notes.
+3. Add a glossary term.
+4. Improve documentation.
+5. Create a small exercise.
+6. Open a precise external issue.
+7. Submit a small external pull request.
+8. Review another learner's work.
+9. Lead a small research track.
 
 ## Public Repositories
 
 | Repository | Purpose |
 | --- | --- |
-| [`ABC4RD`](https://github.com/ABC4RDacademy/ABC4RD) | Main hub, website/docs direction, roadmap, publishing policy |
+| [`ABC4RD`](https://github.com/ABC4RDacademy/ABC4RD) | Main hub, website/docs, roadmap, publishing policy |
 | [`LLMAIX2001a`](https://github.com/ABC4RDacademy/LLMAIX2001a) | Flagship AI course and Storyteller AI prototype path |
-| [`abc4rd-research`](https://github.com/ABC4RDacademy/abc4rd-research) | Evidence library, source map, citation pack, media kit |
-| [`abc4rd-community`](https://github.com/ABC4RDacademy/abc4rd-community) | Charter, onboarding, governance, community operations |
-| [`bitcoin-developer-curriculum`](https://github.com/ABC4RDacademy/bitcoin-developer-curriculum) | Bitcoin developer education |
+| [`abc4rd-research`](https://github.com/ABC4RDacademy/abc4rd-research) | Evidence library, source map, citation pack, essays |
+| [`abc4rd-community`](https://github.com/ABC4RDacademy/abc4rd-community) | Charter, onboarding, roles, community operations |
 | [`open-compute-curriculum`](https://github.com/ABC4RDacademy/open-compute-curriculum) | Open compute and scientific computing literacy |
-| [`sensor-networks-curriculum`](https://github.com/ABC4RDacademy/sensor-networks-curriculum) | Sensors, IoT, LPWAN, and telemetry integrity |
-| [`robotics-systems-curriculum`](https://github.com/ABC4RDacademy/robotics-systems-curriculum) | ROS 2, Gazebo, MoveIt, simulation, and safety |
+| [`sensor-networks-curriculum`](https://github.com/ABC4RDacademy/sensor-networks-curriculum) | Sensors, IoT, LPWAN, and networks |
+| [`robotics-systems-curriculum`](https://github.com/ABC4RDacademy/robotics-systems-curriculum) | ROS, Gazebo, MoveIt, simulation, and safety framing |
 | [`digital-health-standards-curriculum`](https://github.com/ABC4RDacademy/digital-health-standards-curriculum) | FHIR, WHO SMART Guidelines, and open health systems |
 | [`digital-manufacturing-curriculum`](https://github.com/ABC4RDacademy/digital-manufacturing-curriculum) | Digital thread, additive manufacturing, and traceability |
-| [`nanomaterials-research-curriculum`](https://github.com/ABC4RDacademy/nanomaterials-research-curriculum) | Nanomaterials, simulation, and responsible development |
-| [`.github`](https://github.com/ABC4RDacademy/.github) | Organization profile and shared GitHub defaults |
-
-## Contribution Paths
-
-- **Learners:** follow course modules, run labs, ask questions, and open small
-  pull requests.
-- **Developers:** improve examples, tests, agent workflows, and deployment
-  patterns.
-- **Researchers:** add source-backed evidence, safety notes, and evaluation
-  rubrics.
-- **Educators:** propose workshops, learning paths, translations, and glossary
-  entries.
-- **Partners:** start with public issues and draft-first briefs. Outreach and
-  partnership language require human approval.
+| [`nanomaterials-research-curriculum`](https://github.com/ABC4RDacademy/nanomaterials-research-curriculum) | Nanomaterials, simulation, and responsible research |
 
 ## Claim Discipline
 
-Public claims should be backed by sources, signed agreements, or visible GitHub
-work. Russia is referenced only as 2017 historical context for the original
-university blockchain education story.
-
-ABC4RD Academy is an independent educational initiative. Unless explicitly
-stated, it is not officially affiliated with Bitcoin Magazine, BTC Inc, B.tc,
-The Bitcoin Conference, or any referenced conference, company, speaker, sponsor,
-or organization. Public references are used for educational research,
-attribution, and community learning.
+ABC4RD Academy does not claim affiliation, endorsement, partnership, clinical
+deployment, financial advice, safety-critical deployment, or AGI/ASI capability
+unless there is public evidence or explicit written approval. Unverified items
+are marked `requires verification`.
 
 ## Channels
 
 - Website: [abc4rd.org](http://abc4rd.org/)
+- Discussions: [ABC4RD Discussions](https://github.com/ABC4RDacademy/ABC4RD/discussions)
+- Research center upgrade: [discussion #15](https://github.com/ABC4RDacademy/ABC4RD/discussions/15)
 - X: [@academy_abc4rd](https://x.com/academy_abc4rd)
-- Telegram channel: [abc4rdchannel](https://www.t.me/abc4rdchannel)
-- Telegram chat: [abc4rdchat](https://www.t.me/abc4rdchat)
-- Telegram bot: [abc4rd_bot](https://www.t.me/abc4rd_bot)
+- Telegram: [channel](https://www.t.me/abc4rdchannel), [chat](https://www.t.me/abc4rdchat), [bot](https://www.t.me/abc4rd_bot)
 - Discord: [ABC4RD invite](https://discord.com/invite/3AgRv6wKPQ)
